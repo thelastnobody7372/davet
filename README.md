@@ -54,5 +54,5 @@ umarim bu aciklama yeterli olmustur ;) sitem etmenize gerek yok, eglenmeye calis
 sevgiler,
 ```
 
-<!--- aradigin bu olabilir mi ?== Rz7n2nt7FR== --->
+
 
