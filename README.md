@@ -1,4 +1,4 @@
-
+<!-- e burdaydi? nereye gitti?-->
 ``` 
 1) bu nedir?
 ------------------------------
