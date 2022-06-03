@@ -1,4 +1,5 @@
 <!-- e burdaydi? nereye gitti?-->
+
 ``` 
 1) bu nedir?
 ------------------------------
@@ -16,7 +17,7 @@ bulmussun dogru ama davet o degil ;) kurcala bakalim o buldugunu, kolay gelsin.
 4) ugrasamayacagim bunlarla girmiyecegim ben...
 ------------------------------
 ok.
-
+çözmek istemeyeneler için: https://pastebin.pl/view/dcdf9d93
 5) sunucuya girmenin baska bir yolu yok mu? arkadasimiz icerideyse alsa falan?
 ------------------------------
 aslinda var, twitch aboneleri ve youtube katil'imcilari discord un kendilerine tanidiklari 
